@@ -1,2 +1,1 @@
-# manisha.github.io
-WEB-DEV BOOTCAMP SHAPEAI
+#ShapeAI web-dev Bootcamp
